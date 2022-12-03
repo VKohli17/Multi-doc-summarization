@@ -4,7 +4,7 @@
 Contributors:
 
 - [Vanshpreet Singh Kohli](https://github.com/VKohli17)
-- [Likhith Asapu]()
+- [Likhith Asapu](https://github.com/Likhith-Asapu)
 - [Rahothvarman Prithviraj](https://github.com/Rutts07)
 
 \* *Created by the aforementioned authors for a course project for Advanced NLP, IIITH, Fall 2022* \*
@@ -23,7 +23,8 @@ For a more thorough understanding of the project, please refer to the [project r
 #### Directory Structure:
 
 1. Readme
-2. Final Report
-3. **Models directory:** Contains the implemented model and a baseline in `.ipynb` format (with outputs stored).
+2. Project Report
+3. Project presentation 
+4. **Models directory:** Contains the implemented model and a baseline in `.ipynb` format (with outputs stored).
 
 -----
